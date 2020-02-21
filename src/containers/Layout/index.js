@@ -16,7 +16,7 @@ export default () => {
       <nav className="layout-nav">
         <ul>
           <li>
-            <Link to="/layout">Home</Link>
+            <Link to="/layout">Home 2</Link>
           </li>
           <li>
             <Link to="/layout/page-a">Page A</Link>
