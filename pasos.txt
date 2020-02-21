@@ -1,0 +1,11 @@
+1. https://create-react-app.dev/docs/deployment
+2. instalar express
+3. crear un archivo server.js y copiar el contenido de la pagina de create react app
+4. agregar un script start y renombrar el existe a start:dev
+5. agregar el archivo .gitignore
+6. agregar el folder build al gitignore
+7. probar en local:
+  primer correr npm run build
+  segundo npm run start
+
+8. crear una cuenta en https://signup.heroku.com/

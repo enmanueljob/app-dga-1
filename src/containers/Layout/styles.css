@@ -1,0 +1,37 @@
+.layout {
+  height: 600px;
+}
+
+.layout-nav ul {
+  background: blue;
+  display: flex;
+  height: 100px;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.layout-nav ul li ~ li {
+  margin-left: 10px;
+}
+
+.layout-nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.layout-content {
+  height: 60px;
+  background: red;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
+
+.layout-footer {
+  height: 40px;
+  background: gray;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 40px;
+}
